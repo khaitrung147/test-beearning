@@ -1,0 +1,19 @@
+.home {
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .link {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+
+        a{
+            padding: 10px 20px;
+            color: white;
+            background-color: lightseagreen;
+            text-decoration: none;
+        }
+    }
+}
